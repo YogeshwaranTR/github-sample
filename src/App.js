@@ -8,7 +8,6 @@ function App() {
     <h5>pull code</h5>
     <h3>Test</h3>
     <h3>reset</h3>
-    
     </div>
   );
 }
